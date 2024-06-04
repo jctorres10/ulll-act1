@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 # Resultados
 -![image](![image](https://github.com/jctorres10/ulll-act1/assets/143548160/887d2821-1e38-432b-b45c-fe9fa659376f)
 )
--![image]![image](https://github.com/jctorres10/ulll-act1/assets/143548160/7272bed6-1668-4830-862c-2e92716f2f20)
+-![image](https://github.com/jctorres10/ulll-act1/assets/143548160/7272bed6-1668-4830-862c-2e92716f2f20)
 )
  # Links de referencias
  - https://youtu.be/xDiHqmO23Qo?si=65ds_4jNVPStd-uo
